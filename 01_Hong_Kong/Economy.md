@@ -39,4 +39,4 @@
 - **Added By:** Yu Ziqi ([Yu Ziqi](https://github.com/YuZiqi2010))
 - **Stories in Action:**
 - 樓市回顧2025│樓價反彈10大藍籌屋苑8升2跌　港島豪宅盤仍跌逾10%
-([News link]((https://www.hk01.com/article/60305907?utm_source=01articlecopy&utm_medium=referral)))
+([News link](https://www.hk01.com/article/60305907?utm_source=01articlecopy&utm_medium=referral))
